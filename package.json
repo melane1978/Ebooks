@@ -1,0 +1,19 @@
+{
+  "name": "ebooks",
+  "version": "1.0.0",
+  "description": "A download page for ebooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melane1978/Ebooks.git"
+  },
+  "author": "melane1978",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/melane1978/Ebooks/issues"
+  },
+  "homepage": "https://github.com/melane1978/Ebooks#readme"
+}
